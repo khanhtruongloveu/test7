@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Tớ có điều này muốn hỏi cậu, nhớ phải trả lời thật lòng nha`,
     btnIntro: 'oke',
     title: 'Cậu xem tớ là gì vậy 😙',
-    desc: 'Cậu không trả lời hoặc thoát ra, tức là cậu là vợ tớ đó nha :> ',
+    desc: 'Cậu không trả lời hoặc thoát ra, tức là cậu là bạn thân tớ đó nha :> ',
     btnYes: 'Hơn cả tình bạn luôn ó ò oooo😍😍😍 <33',
     btnNo: 'Cụt shit của đời tớ💩💩💩 :333',
     question:'Nói cho tới lý do vì sao tớ lại quan trọng với cậu đii🐱‍🏍🐱‍🏍🐱‍🏍 <3',
